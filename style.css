@@ -1,0 +1,93 @@
+body {
+	background:gainsboro;
+	font-family:'Times New Roman', Times, serif
+}
+
+
+#imagem_celular{
+	width: 70%;	
+	border-radius: 13%;
+}
+
+#instagram_phone_esquerdo{
+	float:left;
+	margin-left: 150px;
+    margin-top: 50px;
+	display:block;
+	left:0px;
+}
+#foto_thiago{
+	border-radius: 50%;
+	text-align: center;
+	width: 20%;
+}
+
+#parte_direita{
+	padding-top:70px;
+	left:0px;
+	width: 1200px;
+}
+#instagram_logo{
+	width:200px;
+}
+#caixa-foto {
+	background:white;
+	text-align: center;
+	border: 1px solid darkgray;
+	border-radius: 2%;
+	margin-left:600px;
+	width: 500px;
+}
+
+#caixa-alterar {
+	margin-top:10px;
+	text-align: center;
+	border: 1px solid darkgray;
+	margin-left:600px;
+	border-radius: 5%;
+	background:white;
+	width: 500px;
+	height: 50px;
+}
+
+#caixa_alterar2{
+	margin-top:6px;
+	color:grey;
+	font-size:13px;
+}
+
+#baixar_Instagram {
+	margin-top: 20px;
+	text-align: center;
+	margin-left:600px;
+	width: 500px;
+}
+#apple_store{
+	float:left;
+	margin-left:100px;
+}
+.stores {
+	width: 100px;
+}
+
+#botao_thiago {
+	background: rgb(73, 136, 179);
+	padding: 8px 30px;
+	border-radius: 3%;
+	margin-top:10px;
+	color:white;
+	text-align: center;
+	border:none;
+	font-size: 13px;
+	cursor:pointer;
+}
+
+#botao_thiago:hover {
+	background-color: blue;
+	color: white;
+  }
+ 
+  .textos{
+	text-decoration:none; 
+	color:rgb(73, 136, 179);
+  }
